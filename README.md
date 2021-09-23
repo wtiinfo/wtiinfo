@@ -20,8 +20,6 @@
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&#160;
   <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&#160;
   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&#160;
-  <img align="center" alt="Unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />&#160;
-  <img align="center" alt="Unreal4" height="40" width="40" src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png"/>&#160;
   <img align="center" alt="Wordpress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />&#160;
   <img align="center" alt="wtiinfo-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&#160; 
   <img align="center" alt="wtiinfo-Blender3d" height="40" width="40" src="https://img.icons8.com/color/48/000000/blender-3d.png" />&#160;
