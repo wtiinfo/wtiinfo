@@ -6,7 +6,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtiinfo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br />
-<div align="center" style="display: inline_block; line-throuth: none">
+<div align="center" style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />&#160;
   <img align="center" alt="Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" />&#160;
   <img align="center" alt="Gradle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">&#160;
