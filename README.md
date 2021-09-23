@@ -20,6 +20,8 @@
   <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&#160;
   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&#160;
   <img align="center" alt="Wordpress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />&#160;
+  <img align="center" alt="Wordpress" height="40" width="40"  src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>&#160;
+  <img align="center" alt="Wordpress" height="40" width="40"  src="https://img.icons8.com/color/48/000000/heroku.png"/>&#160;
   <img align="center" alt="Blender3D" height="40" width="40" src="https://img.icons8.com/color/48/000000/blender-3d.png" />&#160;
 </div>
   <br />
