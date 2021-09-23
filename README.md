@@ -12,16 +12,16 @@
   <img align="center" alt="Gradle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">&#160;
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />&#160;
 <img align="center" alt="PSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />&#160;
-  <img align="center" alt="wtiinfo-Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />&#160;
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />&#160;
+  <img align="center" alt="Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />&#160;
+  <img align="center" alt="Android" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" />&#160;
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&#160;
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&#160;
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&#160;
   <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&#160;
   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&#160;
   <img align="center" alt="Wordpress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />&#160;
-  <img align="center" alt="Wordpress" height="40" width="40"  src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>&#160;
-  <img align="center" alt="Wordpress" height="40" width="40"  src="https://img.icons8.com/color/48/000000/heroku.png"/>&#160;
+  <img align="center" alt="AWS" height="40" width="40"  src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>&#160;
+  <img align="center" alt="Heroku" height="40" width="40"  src="https://img.icons8.com/color/48/000000/heroku.png"/>&#160;
   <img align="center" alt="Blender3D" height="40" width="40" src="https://img.icons8.com/color/48/000000/blender-3d.png" />&#160;
 </div>
   <br />
