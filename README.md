@@ -35,8 +35,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
  <!-- ![Snake animation](https://github.com/wtiinfo/wtiinfo/blob/output/github-contribution-grid-snake.svg) -->
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wtiinfo)](https://github.com/anuraghazra/github-readme-stats)
+
 </div> 
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtiinfo)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
