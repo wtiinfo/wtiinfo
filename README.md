@@ -12,7 +12,7 @@
   <img align="center" alt="Gradle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">&#160;
   <img align="center" alt="Maven" height="40" width="40" src="https://img.icons8.com/ios/50/000000/maven-ios.png"/>&#160;
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />&#160;
-  <img align="center" alt="PSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />&#160;
+<img align="center" alt="PSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />&#160;
   <img align="center" alt="wtiinfo-Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />&#160;
   <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />&#160;
   <img align="center" alt="wtiinfo-Yarn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" />&#160;
@@ -23,7 +23,6 @@
   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&#160;
   <img align="center" alt="Unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />&#160;
   <img align="center" alt="Unreal4" height="40" width="40" src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png"/>&#160;
-  <img align="center" alt="Photoshop" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />&#160;
   <img align="center" alt="Wordpress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />&#160;
   <img align="center" alt="wtiinfo-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&#160; 
   <img align="center" alt="wtiinfo-Blender3d" height="40" width="40" src="https://img.icons8.com/color/48/000000/blender-3d.png" />&#160;
