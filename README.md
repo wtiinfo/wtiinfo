@@ -37,7 +37,7 @@
  <br />
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/wtiinfo/Wando-Borges/output/github-contribution-grid-snake.svg)
- ![[github contribution grid snake animation](https://github.com/wtiinfo/Wando-Borges/blob/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://github.com/wtiinfo/Wando-Borges/blob/output/github-contribution-grid-snake.svg)
 </div> 
 
 
