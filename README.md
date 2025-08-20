@@ -1,4 +1,4 @@
-# Wando-Borges
+# Wa-Bos
 
 <div align="center">
   <a href="https://github.com/wtiinfo">
